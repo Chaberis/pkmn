@@ -1,0 +1,13 @@
+BASIC
+Crabominable V
+220
+WATER
+-
+["Water","Water","Colorless"]/Destroyer Punch/90/This attack does 60 more damage for each damage counter on your opponent's Active Pokémon.
+METAL
+-
+4
+Fusion Strike
+E
+76
+Мельников/Кирилл/Сергеевич/БСБО-05-23
